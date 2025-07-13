@@ -17,3 +17,7 @@ Compare profitability and discounting trends to identify margin improvement oppo
 Track product category performance to understand consumer preferences.
 
 Enable data-driven insights through real-time, filterable dashboards for business analysts and management.
+
+
+
+
